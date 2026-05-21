@@ -1,0 +1,6 @@
+{
+  "name": "Inventori Gudang Sanvinal",
+  "description": "Sistem manajemen stok gudang profesional dengan fitur barang masuk, barang keluar, dan ekspor laporan Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
